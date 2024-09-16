@@ -201,13 +201,13 @@ end
         <h3>Definition lists can be used with HTML syntax.</h3>
         <dl>
             <dt>Name</dt>
-            <dd>Godzilla</dd>
+            <dd>Jonai Serrano</dd>
             <dt>Born</dt>
-            <dd>1952</dd>
+            <dd>1999</dd>
             <dt>Birthplace</dt>
-            <dd>Japan</dd>
+            <dd>California</dd>
             <dt>Color</dt>
-            <dd>Green</dd>
+            <dd>Purple</dd>
         </dl>
 
         <pre><code>
@@ -220,7 +220,7 @@ The final element.
     </div>
 
     <footer>
-        <p>&copy; 2024 My Project. All rights reserved.</p>
+        <p>&copy; 2024 My Portfolio. All rights reserved.</p>
     </footer>
 </body>
 </html>
