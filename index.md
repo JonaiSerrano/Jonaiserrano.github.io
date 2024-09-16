@@ -69,7 +69,7 @@
     <div class="container">
         <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code>keyword</code>.</p>
 
-        <p><a href="./another-page.html">Link to another page</a></p>
+        <p><a href="https://www.youtube.com/@jonaiserrano1139" target="_blank" rel="noopener noreferrer">Visit my YouTube channel</a></p>
 
         <p>There should be whitespace between paragraphs.</p>
         
