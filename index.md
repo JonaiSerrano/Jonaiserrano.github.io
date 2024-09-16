@@ -196,7 +196,7 @@ end
         <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat">
 
         <h3>Large image</h3>
-        <img src="https://guides.github.com/activities/hello-world/branching.png" alt="Branching">
+        <img src=(SOC-analyst.jpg)
 
         <h3>Definition lists can be used with HTML syntax.</h3>
         <dl>
