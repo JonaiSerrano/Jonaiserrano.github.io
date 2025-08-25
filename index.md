@@ -68,8 +68,8 @@
     <div class="container">
         <p><a href="https://www.youtube.com/@jonaiserrano1139" target="_blank" rel="noopener noreferrer">Visit my YouTube channel</a></p>
         
-        <h1>Header 1</h1>
-        <p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+        <h1>Overview of this portfolio</h1>
+        <p>This repository is a centralized environment where potential employers and partners can overview my skills, projects, and ideas. </p>
 
         <h2>Header 2</h2>
         <blockquote>
