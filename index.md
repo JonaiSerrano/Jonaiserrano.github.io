@@ -66,11 +66,7 @@
     </header>
     
     <div class="container">
-        <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code>keyword</code>.</p>
-
         <p><a href="https://www.youtube.com/@jonaiserrano1139" target="_blank" rel="noopener noreferrer">Visit my YouTube channel</a></p>
-
-        <p>There should be whitespace between paragraphs.</p>
         
         <h1>Header 1</h1>
         <p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
