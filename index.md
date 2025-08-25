@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+<p><a href="https://www.youtube.com/@jonaiserrano1139" target="_blank" rel="noopener noreferrer">Visit my YouTube channel</a></p>
 
 There should be whitespace between paragraphs.
 
