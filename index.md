@@ -1,119 +1,44 @@
+# 👋 Welcome to My Cybersecurity Projects
+
+Hi, I'm [Your Name], a passionate cybersecurity enthusiast focused on threat detection, SIEM architecture, and real-time attack monitoring. This page highlights my hands-on work using Microsoft Sentinel, PowerShell, and Azure.
+
 ---
-layout: default
+
+## 🔐 Featured Project: Live Attack Map with Azure Sentinel
+
+**Overview:**  
+Designed and deployed a real-time threat monitoring system using Azure Sentinel and Log Analytics. Visualized unauthorized login attempts on a geographic map using IP geolocation data.
+
+**Key Highlights:**
+- Automated metadata extraction from Windows Event Viewer using PowerShell  
+- Integrated third-party geolocation APIs for IP-based location resolution  
+- Configured Azure Log Analytics Workspace for geographic data visualization  
+- Leveraged Microsoft Sentinel for SIEM-based threat detection and alerting  
+
+👉 [View Project Repository](https://github.com/yourusername/Live-Attack-Map)
+
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## 📁 Other Projects
 
-<p><a href="https://www.youtube.com/@jonaiserrano1139" target="_blank" rel="noopener noreferrer">Visit my YouTube channel</a></p>
+### 🛡️ SOC Design Blueprint  
+A conceptual framework for building a scalable Security Operations Center (SOC) using cloud-native tools.  
+🔗 [Explore the Project](https://github.com/yourusername/SOC-Design)
 
-# Overview
+### 📊 Log Analytics Query Library  
+A curated set of KQL queries for detecting anomalies, failed logins, and suspicious behavior in Azure environments.  
+🔗 [Browse the Queries](https://github.com/yourusername/KQL-Library)
 
-This repository is a centralized environment where potential employers and partners can overview my skills, projects, and ideas. 
+---
 
-## Header 2
+## 📫 Get in Touch
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Feel free to connect with me or explore more of my work:
 
-### Header 3
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 📧 Email: yourname@example.com
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](SOC-analyst.jpg)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Jonai</dd>
-<dt>Born</dt>
-<dd>1999</dd>
-<dt>Birthplace</dt>
-<dd>USA</dd>
-<dt>Color</dt>
-<dd>Purple</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-Thank you for viewing.
-```
+*This site is built with ❤️ using GitHub Pages and Markdown.*
