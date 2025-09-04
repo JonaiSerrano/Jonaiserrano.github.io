@@ -1,6 +1,6 @@
 # 👋 Welcome to My Cybersecurity Projects
 
-Hi, I'm [Your Name], a passionate cybersecurity enthusiast focused on threat detection, SIEM architecture, and real-time attack monitoring. This page highlights my hands-on work using Microsoft Sentinel, PowerShell, and Azure.
+Hi, I'm Jonai Serrano, a passionate cybersecurity enthusiast focused on threat detection, SIEM architecture, and real-time attack monitoring. This page highlights my hands-on work using Microsoft Sentinel, PowerShell, and Azure.
 
 ---
 
@@ -10,10 +10,10 @@ Hi, I'm [Your Name], a passionate cybersecurity enthusiast focused on threat det
 Designed and deployed a real-time threat monitoring system using Azure Sentinel and Log Analytics. Visualized unauthorized login attempts on a geographic map using IP geolocation data.
 
 **Key Highlights:**
-- Automated metadata extraction from Windows Event Viewer using PowerShell  
-- Integrated third-party geolocation APIs for IP-based location resolution  
-- Configured Azure Log Analytics Workspace for geographic data visualization  
-- Leveraged Microsoft Sentinel for SIEM-based threat detection and alerting  
+  - Used various Azure tools to extract metadata from Logs, focusing on failed login attempts (Event ID 4625)
+  - Integrated IP geolocation APIs to resolve attacker locations and enrich log data with geographic context
+  - Configuration of Azure Log Analytics Workspace to enable geographic data visualization
+  - Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)  
 
 👉 [View Project Repository](https://github.com/yourusername/Live-Attack-Map)
 
