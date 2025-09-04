@@ -36,6 +36,6 @@ A curated set of KQL queries for detecting anomalies, failed logins, and suspici
 Feel free to connect with me or explore more of my work:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonai-serrano-350480174/)  
-- 🌐 [Portfolio Website](https://jonaiserrano.github.io/)  
+- 🌐 [Portfolio Website](https://github.com/JonaiSerrano)  
 - 📧 Email: lenyoscaryjonai@gmail.com
 
