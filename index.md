@@ -15,7 +15,7 @@ Designed and deployed a real-time threat monitoring system using Azure Sentinel 
   - Configuration of Azure Log Analytics Workspace to enable geographic data visualization
   - Security event analysis and threat detection leveraging Azure Sentinel (Microsoft’s cloud-native SIEM)  
 
-👉 [View Project Repository](https://github.com/yourusername/Live-Attack-Map)
+👉 [View Project Repository](https://github.com/JonaiSerrano/Designing_Azure_Sentinel_SIEM-Live-Attack-Map-Monitoring-.git)
 
 ---
 
@@ -23,11 +23,11 @@ Designed and deployed a real-time threat monitoring system using Azure Sentinel 
 
 ### 🛡️ SOC Design Blueprint  
 A conceptual framework for building a scalable Security Operations Center (SOC) using cloud-native tools.  
-🔗 [Explore the Project](https://github.com/yourusername/SOC-Design)
+🔗 [Explore the Project](https://tmkamal.github.io/under-construction-template/)
 
 ### 📊 Log Analytics Query Library  
 A curated set of KQL queries for detecting anomalies, failed logins, and suspicious behavior in Azure environments.  
-🔗 [Browse the Queries](https://github.com/yourusername/KQL-Library)
+🔗 [Browse the Queries](https://tmkamal.github.io/under-construction-template/)
 
 ---
 
@@ -35,10 +35,7 @@ A curated set of KQL queries for detecting anomalies, failed logins, and suspici
 
 Feel free to connect with me or explore more of my work:
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 📧 Email: yourname@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonai-serrano-350480174/)  
+- 🌐 [Portfolio Website](https://jonaiserrano.github.io/)  
+- 📧 Email: lenyoscaryjonai@gmail.com
 
----
-
-*This site is built with ❤️ using GitHub Pages and Markdown.*
