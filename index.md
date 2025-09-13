@@ -4,7 +4,11 @@ Hi, I'm Jonai Serrano, a passionate cybersecurity enthusiast focused on threat d
 
 ---
 
-## 🔐 Featured Project: Live Attack Map with Azure Sentinel
+## 🔐 Featured Project: 
+
+---
+
+## Designing & Creating a SIEM Using Azure | Sentinel | 
 
 **Overview:**  
 Designed and deployed a real-time threat monitoring system using Azure Sentinel and Log Analytics. Visualized unauthorized login attempts on a geographic map using IP geolocation data.
