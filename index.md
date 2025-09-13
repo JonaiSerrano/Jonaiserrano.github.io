@@ -6,8 +6,6 @@ Hi, I'm Jonai Serrano, a passionate cybersecurity enthusiast focused on threat d
 
 ## 🔐 Featured Project: 
 
----
-
 ## Designing & Creating a SIEM Using Azure | Sentinel | 
 
 **Overview:**  
@@ -25,7 +23,7 @@ Designed and deployed a real-time threat monitoring system using Azure Sentinel 
 
 ## 📁 Other Projects
 
-### 🛡️ SOC Design Blueprint  
+### 🖥️ Active Directory-Based Enterprise Network Deployment | Systems Administration
 A conceptual framework for building a scalable Security Operations Center (SOC) using cloud-native tools.  
 🔗 [Explore the Project](https://tmkamal.github.io/under-construction-template/)
 
