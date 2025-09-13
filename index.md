@@ -23,8 +23,8 @@ Designed and deployed a real-time threat monitoring system using Azure Sentinel 
 
 ## 📁 Other Projects
 
-### 🖥️ Active Directory-Based Enterprise Network Deployment | Systems Administration
-A conceptual framework for building a scalable Security Operations Center (SOC) using cloud-native tools.  
+### 🖥️ Active Directory-Based Enterprise Network Deployment
+Deployed a Windows-based enterprise network using Active Directory, configuring domain services, user accounts, group policies, and secure authentication across multiple systems.
 🔗 [Explore the Project](https://tmkamal.github.io/under-construction-template/)
 
 ### 📊 Log Analytics Query Library  
